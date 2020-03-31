@@ -16,3 +16,11 @@ h1{
 .half-width img{
     width: 100%;
 }
+.top-banner{
+    border: 2px solid red;
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
