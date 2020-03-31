@@ -1,4 +1,5 @@
 body{
+    margin: 0px;
     font-family: 'Comic Neue', cursive;
 }
 h1{
@@ -17,10 +18,13 @@ h1{
     width: 100%;
 }
 .top-banner{
-    border: 2px solid red;
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
 }
 section{
     height: 500px;
+}
+.link-button{
+    text-decoration: none;
+    background-color: orange;
 }
